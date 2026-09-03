@@ -1,13 +1,29 @@
 {
-  "background_color": "hsl(0, 0%, 100%)",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "وثيقة أعقاب شارح البحر",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "أعقاب شارح البحر",
+  "name": "أعقاب شارح البحر",
+  "short_name": "شارح البحر",
+  "description": "أنساب آل البركاني وآل السروري",
   "start_url": "/",
-  "theme_color": "#004d40",
-  "id": "zaid-app",
-  "description": "التطبيق الرسمي لوثيقة ومعجم أنساب آل الجنيد وآل البركاني وآل السروري (أعقاب الشيخ سعيد شارح البحر بن أبي الأسرار). يهدف التطبيق لتوثيق السلسلة النسبية الصحيحة بالدلاءل والوثائق، وتوفير مشجر تفاعلي دقيق يربط فروع الأسرة وتفرعاتها في مختلف المحافظات."
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": [
+    "books",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
