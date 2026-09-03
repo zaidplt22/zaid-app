@@ -1,20 +1,24 @@
 {
-  "name": "وثيقة أعقاب شارح البحر",
+  "name": "أعقاب شارح البحر",
   "short_name": "شارح البحر",
+  "description": "التطبيق الرسمي لوثيقة ومعجم أنساب آل الجنيد وآل البركاني وآل السروري",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["books", "reference"],
   "icons": [
     {
       "src": "/icon-192.png",
-      "sizes": "192x192 1024x1024",
+      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
       "src": "/icon-512.png",
-      "sizes": "512x512 1024x1024",
+      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
     }
