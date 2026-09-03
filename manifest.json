@@ -8,6 +8,7 @@
   "theme_color": "#ffffff",
   "lang": "ar",
   "dir": "rtl",
+  "orientation": "portrait",
   "categories": [
     "books",
     "reference"
@@ -24,6 +25,15 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/zaidplt22/zaid-app/main/screenshot-narrow.png",
+      "sizes": "1080x2033",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "واجهة تطبيق وثيقة أعقاب شارح البحر"
     }
   ],
   "id": "com.zaid.app"
